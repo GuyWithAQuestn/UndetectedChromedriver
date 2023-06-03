@@ -34,7 +34,7 @@ else:
 
 
 
-driver.get("https://www.nowsecure.nl")
+driver.get("https://www.bestbuy.com/site/wd-easystore-8tb-external-usb-3-0-hard-drive-black/6425302.p?skuId=6425302#anchor=productVariations")
 # search = driver.find_element(by=By.NAME,value="q")
 # search.send_keys("Selenium")
 # search.send_keys(Keys.ENTER)
