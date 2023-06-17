@@ -29,7 +29,7 @@ if (is_raspberrypi()):
     # use the existing chromedriver instead of downloading
     driver = uc.Chrome(driver_executable_path="/home/pi/.local/share/undetected_chromedriver/chromedriver_copy")
 else:
-    print("retruned False. This is not a Pi.")
+    print("returned False. This is not a Pi.")
     driver = uc.Chrome()
 
 
